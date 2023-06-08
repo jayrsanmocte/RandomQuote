@@ -39,5 +39,6 @@
 //         storage: "1TB SSD",
 //         displaySize: "15.6 inches",
 //         price: "$3000",
+asd
 //       },
 //   ];
