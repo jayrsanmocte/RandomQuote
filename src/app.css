@@ -40,3 +40,13 @@
   .read-the-docs {
     color: #888;
   }
+
+  #tododo {
+    text-align: center;
+    color: rgb(12, 12, 12);
+    font-size: xx-large;
+  }
+
+  .table :hover {
+    color: rgb(24, 23, 23);
+  }
